@@ -133,6 +133,8 @@ Fairclass 수강신청 서비스는 수강평가 사이트도 함께 제공하�
 
 
 ## 7. ⚙️ 기술스택
+<img width="782" height="100" alt="기술 스택" src="https://github.com/user-attachments/assets/21f124e3-33ac-4cef-b1d0-ac1384cf3cf9" />
+
 
 
 
