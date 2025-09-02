@@ -28,7 +28,7 @@
 
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
-## 2. 프로젝트 개요
+## 2. ✏️ 프로젝트 개요
 
 
 <p> Fairclass는 수강신청과 강의평가를 한 곳에서 처리하는 통합 서비스입니다. 사용자는 다른 사이트로 이동할 필요 없이, 과목 정보를 확인하고 실제 수강자의 평가를 바탕으로 바로 신청까지 끝낼 수 있습니다. 하나의 화면에서 탐색→비교→결정이 이어지기 때문에 선택 과정이 빠르고 명확합니다.</p>
@@ -43,7 +43,7 @@
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
 
-## 3. 프로젝트 배경
+## 3. 📄 프로젝트 배경
 <img width="1040" height="1087" alt="image" src="https://github.com/user-attachments/assets/a0d132df-3136-4279-94eb-97c0c9b545bb" />
 <P> [첨부1. ‘강의 매매 신고’ 검색 결과 - 대학 언론의 반복 보도 사례 (검색 일시 2025.08.22)] </p>
 <p>국내 다수의 대학 교내 언론은 ‘강의 매매’ 문제를 반복적으로 보도하며 신고를 독려하고 있습니다. 첨부1은 ‘강의 매매 신고’ 키워드로 검색 했을 때  확인되는 기사 예시로, 강의 거래가 공정한 수강신청을 저해하고 제도적 보완이 필요하다는 공통의 문제의식을 보여주고 있습니다.</p>
@@ -51,7 +51,7 @@
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
 
-## 3-1. 기존 시장의 문제점
+## 3-1. ⚠️ 기존 시장의 문제점
 
 
 <details>
@@ -84,13 +84,13 @@
 ## 4. 프로젝트 소개
 
 
-## 5. 주요 기능
+## 5. 🛠️ 주요 기능
 
 
 
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
-## 6. 유사 서비스 사이트 분석 및 차별점
+## 6. 📊 유사 서비스 사이트 분석 및 차별점
 
 <img width="360" height="120" alt="image" src="https://github.com/user-attachments/assets/9402176c-9b41-40de-a970-4eef16d72729" />
 <img width="755" height="173" alt="thumb" src="https://github.com/user-attachments/assets/1837daf7-d3b1-4a82-aa6a-8a4e182d90ae" />
@@ -108,8 +108,6 @@
 <h4>• 수강 완료자만 강의평가 가능 → 평가 신뢰도 확보</h4>
 
 
-</p><p>&nbsp;</p><p>&nbsp;</p>
-
 ## 7. 기대효과
 
 
@@ -117,10 +115,10 @@
 
 
 
-## 9. 프로젝트 기획
+## 9. 🎯 프로젝트 기획
 
 
-### 9-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
+### 9-1. WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
 
 
 
