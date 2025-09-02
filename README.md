@@ -1,5 +1,7 @@
 # "빈자리는 공평하게, 선택은 똑똑하게. 평가와 신청을 한 번에 끝내세요!"
 
+<p>&nbsp;</p>
+
 <p align="center">
  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/354f0a85-e699-4448-b283-36c7074ec232" />
 </p>
@@ -7,16 +9,7 @@
 
 
 
-
-
-
-
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
-
+<p>&nbsp;</p>
 
 
 
