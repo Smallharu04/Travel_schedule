@@ -51,7 +51,7 @@
 
 ## 기존 시장의 문제점
 <details>
-  <summary><strong> 3-1. 문제점 </strong></summary>
+  <summary><strong> 3-1. 강의매매 </strong></summary>
 
   매년 수강 신청 기간 반복되는 강의 매매는 전공 필수, 비대면 등 수요가 높은 강의를 먼저 선점해
   현금 또는 온라인 상품권 등을 받고 학생들에게 판매하는 방식으로 이뤄집니다.  
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><strong> 3-2. 문제점 </strong></summary>
+  <summary><strong> 3-2. 신뢰성 없는 강의 평가 </strong></summary>
 
   강의 평가는 학교 자체 플랫폼에서는 확인이 어려워, 학생 커뮤니티를 통해 확인하는 경우가 많습니다.
   그러나 커뮤니티에는 **수강 인증이 없어** 실제로 듣지 않은 강의에도 평가를 작성할 수 있습니다.
@@ -71,48 +71,60 @@
 
 
 
-    
+   
 
-## 3. 프로젝트 소개
-
-
-## 4. 주요 기능
+## 4. 프로젝트 소개
 
 
-## 5. 유사 서비스 사이트 분석 및 차별점
+## 5. 주요 기능
 
 
-## 6. 기대효과
+## 6. 유사 서비스 사이트 분석 및 차별점
+
+<img width="360" height="120" alt="image" src="https://github.com/user-attachments/assets/9402176c-9b41-40de-a970-4eef16d72729" />
+![에브리타임](https://github.com/user-attachments/assets/1fedb18f-43a9-4c4f-9800-066653025513)
 
 
-## 7. 기술스택
+### 에브리타임은 편리한 시간표 제작, 대학교 커뮤니티, 대학 관련 정보 공유를 목적으로 제작된 온라인 서비스로 대한민국 대학 관련 사설 커뮤니티 1위 앱으로 현재 대한민국 2년제 및 4년제 대학교에 한해 서비스를 지원한다.사이트 명인 'KLUE'는 고려대학교의 약칭인 KU와 실마리를 뜻하는 영어 단어인 Clue의 합성어로 고려대학교의 강의평가 및 필기 공유 사이트이고, 고려대의 재학생 및 졸업생이 만든 사이트이다.
+
+<img width="891" height="396" alt="유사사이트" src="https://github.com/user-attachments/assets/36d77c4b-9189-4f6b-b2d3-298b18af5ff0" />
+차별성
+• 수강신청과 강의평가의 만남을 통한 원스톱 구조
+• 수강신청시 우선순위 대기열 시스템을 통해서 강의매매 사태 사전 방지
+• 사용자가 수강한 강의에만 강의평가를 가능하도록 하여 강의평가의 신뢰도 확보
 
 
-
-## 8. 프로젝트 기획
-
-
-### 8-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
+## 7. 기대효과
 
 
-
-### 8-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" /> <summary> image
-
-
-
-
-### 8-3. UML
+## 8. 기술스택
 
 
 
-### 8-4. DB 모델링
+## 9. 프로젝트 기획
+
+
+### 9-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
 
 
 
-## 9. 테스트 케이스 실행
+### 9-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" /> <summary> image
 
 
-## 10. 회고록
+
+
+### 9-3. UML
+
+
+
+### 9-4. DB 모델링
+
+
+
+## 10. 테스트 케이스 실행
+
+
+## 11. 회고록
 
 
 
