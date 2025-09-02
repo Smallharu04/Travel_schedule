@@ -8,7 +8,7 @@
 
 
 ## 1. 팀원 소개
-![Uploading 팀원소개.png…]()
+<img width="1242" height="446" alt="팀원소개" src="https://github.com/user-attachments/assets/b3def8b6-694c-46c1-b31a-df360cb38e5a" />
 
 
 
