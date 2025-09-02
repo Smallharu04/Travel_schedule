@@ -154,7 +154,7 @@ Fairclass 수강신청 서비스는 수강평가 사이트도 함께 제공하�
 
 
 
-### 요구사항명세서 <details> <img width="916" height="704" alt="요구사항명세서" src="https://github.com/user-attachments/assets/daf75476-3828-44d6-830b-989086d165e7" /> <summary> image
+### 요구사항명세서 <details> <img width="912" height="704" alt="요구사항명세서" src="https://github.com/user-attachments/assets/59e2b2c6-6651-47d4-b868-644b0bef5ed5" /> <summary> image
 
 
 
