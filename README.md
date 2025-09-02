@@ -82,11 +82,14 @@
 ## 6. 유사 서비스 사이트 분석 및 차별점
 
 <img width="360" height="120" alt="image" src="https://github.com/user-attachments/assets/9402176c-9b41-40de-a970-4eef16d72729" />
-![에브리타임](https://github.com/user-attachments/assets/92b4e069-5fc0-45fa-9aa3-bc73860f1ad0)
+
+<img width="256" height="256" alt="에브" src="https://github.com/user-attachments/assets/56991784-5289-4564-aee0-0fa01ec59eb4" />
 
 
 
-### 에브리타임은 편리한 시간표 제작, 대학교 커뮤니티, 대학 관련 정보 공유를 목적으로 제작된 온라인 서비스로 대한민국 대학 관련 사설 커뮤니티 1위 앱으로 현재 대한민국 2년제 및 4년제 대학교에 한해 서비스를 지원한다.사이트 명인 'KLUE'는 고려대학교의 약칭인 KU와 실마리를 뜻하는 영어 단어인 Clue의 합성어로 고려대학교의 강의평가 및 필기 공유 사이트이고, 고려대의 재학생 및 졸업생이 만든 사이트이다.
+
+### 에브리타임은 편리한 시간표 제작, 대학교 커뮤니티, 대학 관련 정보 공유를 목적으로 제작된 온라인 서비스로 대한민국 대학 관련 사설 커뮤니티 1위 앱으로 현재 대한민국 2년제 및 4년제 대학교에 한해 서비스를 지원한다.
+### 사이트 명인 'KLUE'는 고려대학교의 약칭인 KU와 실마리를 뜻하는 영어 단어인 Clue의 합성어로 고려대학교의 강의평가 및 필기 공유 사이트이고, 고려대의 재학생 및 졸업생이 만든 사이트이다.
 
 <img width="891" height="396" alt="유사사이트" src="https://github.com/user-attachments/assets/36d77c4b-9189-4f6b-b2d3-298b18af5ff0" />
 차별성
