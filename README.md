@@ -7,7 +7,7 @@
 
 
 
-# 1. 팀원 소개
+# 1. 🧑‍💻 팀원 소개
 <img width="1242" height="446" alt="팀원소개" src="https://github.com/user-attachments/assets/b3def8b6-694c-46c1-b31a-df360cb38e5a" />
 
 
@@ -29,11 +29,29 @@
 
 # 7. 기술스택
 
+
+
 # 8. 프로젝트 기획
 
-## 8-1. UML
 
-## 8-2. 
+## 8-1. 📅 <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> WBS
+
+
+
+
+## 8-2. 요구사항명세서
+
+
+
+## 8-3. UML
+
+
+
+## 8-4. DB 모델링
+
+
+
+# 9. 테스트 케이스 실핼
 
 
 
