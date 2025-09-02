@@ -162,7 +162,8 @@ Fairclass 수강신청 서비스는 수강평가 사이트도 함께 제공하�
 
 
 
-###  DB 모델링
+###  DB 모델링 <details> <img width="1053" height="680" alt="ERD" src="https://github.com/user-attachments/assets/c1410650-2c25-4b29-a0c6-8a57a2b94b99" /> <summary> image
+
 
 
 
