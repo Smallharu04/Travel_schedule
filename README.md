@@ -21,7 +21,7 @@
 
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
-## 2. ✏️ 프로젝트 개요
+## 2. ✏️ 프로젝트 소개 및 개요
 
 
 <p> Fairclass는 수강신청과 강의평가를 한 곳에서 처리하는 통합 서비스입니다. 사용자는 다른 사이트로 이동할 필요 없이, 과목 정보를 확인하고 실제 수강자의 평가를 바탕으로 바로 신청까지 끝낼 수 있습니다. 하나의 화면에서 탐색→비교→결정이 이어지기 때문에 선택 과정이 빠르고 명확합니다.</p>
@@ -36,7 +36,7 @@
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
 
-## 3. 📄 프로젝트 배경
+## 3-1. 📄 프로젝트 배경
 <img width="1040" height="1087" alt="image" src="https://github.com/user-attachments/assets/a0d132df-3136-4279-94eb-97c0c9b545bb" />
 <P> [첨부1. ‘강의 매매 신고’ 검색 결과 - 대학 언론의 반복 보도 사례 (검색 일시 2025.08.22)] </p>
 <p>국내 다수의 대학 교내 언론은 ‘강의 매매’ 문제를 반복적으로 보도하며 신고를 독려하고 있습니다. 첨부1은 ‘강의 매매 신고’ 키워드로 검색 했을 때  확인되는 기사 예시로, 강의 거래가 공정한 수강신청을 저해하고 제도적 보완이 필요하다는 공통의 문제의식을 보여주고 있습니다.</p>
@@ -44,8 +44,7 @@
 </p><p>&nbsp;</p><p>&nbsp;</p>
 
 
-## 3-1. ⚠️ 기존 시장의 문제점
-
+## 3-2. ⚠️ 기존 시장의 문제점
 
 
 
@@ -76,10 +75,10 @@
 
    
 
-## 4. 프로젝트 소개
 
 
-## 5. 🛠️ 주요 기능
+
+## 4. 🛠️ 주요 기능
 
 <details>
   <summary><strong>  수강신청 및 대기 시스템 </strong></summary>
@@ -95,6 +94,10 @@ Fairclass 수강신청 서비스는 수강평가 사이트도 함께 제공하�
 </details>
 
 </p><p>&nbsp;</p><p>&nbsp;</p>
+
+## 5. 기대효과
+
+
 
 ## 6. 📊 유사 서비스 사이트 분석 및 차별점
 
@@ -114,37 +117,37 @@ Fairclass 수강신청 서비스는 수강평가 사이트도 함께 제공하�
 <h4>• 수강 완료자만 강의평가 가능 → 평가 신뢰도 확보</h4>
 
 
-## 7. 기대효과
-
-
-## 8. 기술스택
 
 
 
-## 9. 🎯 프로젝트 기획
-
-
-### 9-1. WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
+## 7. 기술스택
 
 
 
-### 9-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" /> <summary> image
+## 8. 🎯 프로젝트 기획
+
+
+###  WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
+
+
+
+### 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" /> <summary> image
 
 
 
 
-### 9-3. UML
+###  UML
 
 
 
-### 9-4. DB 모델링
+###  DB 모델링
 
 
 
-## 10. 테스트 케이스 실행
+## 9. 테스트 케이스 실행
 
 
-## 11. 회고록
+## 10. 회고록
 
 
 
