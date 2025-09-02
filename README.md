@@ -34,7 +34,7 @@
 # 8. 프로젝트 기획
 
 
-## 8-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary>
+## 8-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> image
 
 <details>
   <summary><small>image</small></summary>
