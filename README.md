@@ -34,12 +34,12 @@
 # 8. 프로젝트 기획
 
 
-## 8-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> WBS 이미지
+## 8-1. 📅 WBS <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> <summary> - 이미지
 
 
 
 
-## 8-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" />  <summary>
+## 8-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" /> <summary> - 이미지
 
 
 
