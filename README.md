@@ -51,7 +51,7 @@
 
 ## 3-1. 기존 시장의 문제점
 <details>
-  <summary><strong>  • 강의매매 </strong></summary>
+  <summary><strong>  강의매매 </strong></summary>
 
   매년 수강 신청 기간 반복되는 강의 매매는 전공 필수, 비대면 등 수요가 높은 강의를 먼저 선점해
   현금 또는 온라인 상품권 등을 받고 학생들에게 판매하는 방식으로 이뤄집니다.  
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><strong>  • 신뢰성 없는 강의 평가 </strong></summary>
+  <summary><strong>  신뢰성 없는 강의 평가 </strong></summary>
 
   강의 평가는 학교 자체 플랫폼에서는 확인이 어려워, 학생 커뮤니티를 통해 확인하는 경우가 많습니다.
   그러나 커뮤니티에는 **수강 인증이 없어** 실제로 듣지 않은 강의에도 평가를 작성할 수 있습니다.
