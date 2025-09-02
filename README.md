@@ -39,7 +39,8 @@
 
 
 
-## 8-2. 요구사항명세서
+## 8-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" />  <summary>
+
 
 
 
