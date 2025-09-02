@@ -82,6 +82,8 @@
 ## 6. 유사 서비스 사이트 분석 및 차별점
 
 <img width="360" height="120" alt="image" src="https://github.com/user-attachments/assets/9402176c-9b41-40de-a970-4eef16d72729" />
+<img width="755" height="173" alt="thumb" src="https://github.com/user-attachments/assets/1837daf7-d3b1-4a82-aa6a-8a4e182d90ae" />
+
 
 <img width="256" height="256" alt="에브" src="https://github.com/user-attachments/assets/56991784-5289-4564-aee0-0fa01ec59eb4" />
 
