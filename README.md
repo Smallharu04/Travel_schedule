@@ -42,10 +42,7 @@
 
 
 
-<br><br><br> 
-<br><br><br> 
-<br><br><br> 
-<br><br><br> 
+
 
 ## 3. 프로젝트 배경
 <img width="1040" height="1087" alt="image" src="https://github.com/user-attachments/assets/a0d132df-3136-4279-94eb-97c0c9b545bb" />
