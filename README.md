@@ -49,9 +49,9 @@
 <P> [첨부1. ‘강의 매매 신고’ 검색 결과 - 대학 언론의 반복 보도 사례 (검색 일시 2025.08.22)] </p>
 <p>국내 다수의 대학 교내 언론은 ‘강의 매매’ 문제를 반복적으로 보도하며 신고를 독려하고 있습니다. 첨부1은 ‘강의 매매 신고’ 키워드로 검색 했을 때  확인되는 기사 예시로, 강의 거래가 공정한 수강신청을 저해하고 제도적 보완이 필요하다는 공통의 문제의식을 보여주고 있습니다.</p>
 
-## 기존 시장의 문제점
+## 3-1. 기존 시장의 문제점
 <details>
-  <summary><strong> 3-1. 강의매매 </strong></summary>
+  <summary><strong>  • 강의매매 </strong></summary>
 
   매년 수강 신청 기간 반복되는 강의 매매는 전공 필수, 비대면 등 수요가 높은 강의를 먼저 선점해
   현금 또는 온라인 상품권 등을 받고 학생들에게 판매하는 방식으로 이뤄집니다.  
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><strong> 3-2. 신뢰성 없는 강의 평가 </strong></summary>
+  <summary><strong>  • 신뢰성 없는 강의 평가 </strong></summary>
 
   강의 평가는 학교 자체 플랫폼에서는 확인이 어려워, 학생 커뮤니티를 통해 확인하는 경우가 많습니다.
   그러나 커뮤니티에는 **수강 인증이 없어** 실제로 듣지 않은 강의에도 평가를 작성할 수 있습니다.
@@ -83,11 +83,6 @@
 
 <img width="360" height="120" alt="image" src="https://github.com/user-attachments/assets/9402176c-9b41-40de-a970-4eef16d72729" />
 <img width="755" height="173" alt="thumb" src="https://github.com/user-attachments/assets/1837daf7-d3b1-4a82-aa6a-8a4e182d90ae" />
-
-
-<img width="256" height="256" alt="에브" src="https://github.com/user-attachments/assets/56991784-5289-4564-aee0-0fa01ec59eb4" />
-
-
 
 
 ### 에브리타임은 편리한 시간표 제작, 대학교 커뮤니티, 대학 관련 정보 공유를 목적으로 제작된 온라인 서비스로 대한민국 대학 관련 사설 커뮤니티 1위 앱으로 현재 대한민국 2년제 및 4년제 대학교에 한해 서비스를 지원한다.
