@@ -15,3 +15,6 @@
 ## 4일차
 # 5일차
 ### 6일차
+
+
+<img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/2c043d0f-11dc-4490-9958-ce82a60cd814" />
