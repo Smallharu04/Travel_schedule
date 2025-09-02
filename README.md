@@ -39,7 +39,7 @@
 <details>
   <summary><small>image</small></summary>
   <!-- <details> <img width="1143" height="677" alt="WBS" src="https://github.com/user-attachments/assets/91395a6f-9f9a-4e19-a7f4-12ada45d1069" /> -->
-
+<details>
 
 
 ## 8-2. 요구사항명세서 <details> <img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/f80f6987-9094-42f1-93b1-d3dc7d84f6af" /> <summary> image
